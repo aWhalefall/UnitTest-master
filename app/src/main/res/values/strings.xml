@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="greet">Greet</string>
+</resources>
